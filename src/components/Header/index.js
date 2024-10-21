@@ -9,7 +9,7 @@ import NavItem from '../NavItem'
 const RoutesData = [
   {routeId: 'Home', path: '/'},
   {routeId: 'About', path: '/about'},
-  {routeId: 'Vaccination', path: '/vaccination'},
+  
 ]
 
 class Header extends Component {
